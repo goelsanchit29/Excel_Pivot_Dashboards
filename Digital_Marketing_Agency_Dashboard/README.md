@@ -1,7 +1,7 @@
-## Excel_E-Commerce_Store_Sales_Dashboards
+## Excel_Digital_Marketing_Agency_Sales_Dashboard
 
 
-![Dashboard](E-Commerce_Store_Excel_Dashboard.PNG)
+![Dashboard](Digital_Marketing_Agency_Sales_Dashboard.PNG)
 
 ## Overview
 This repository contains a collection of Excel Pivot Dashboards designed to provide powerful insights from raw datasets. Each dashboard leverages Excel's PivotTable and PivotChart features to create dynamic, interactive, and visually appealing data summaries. These dashboards are ideal for users looking to streamline their data analysis, identify trends, and communicate key insights effectively.
