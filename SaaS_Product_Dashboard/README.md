@@ -1,7 +1,7 @@
 ## Excel_SaaS_Product_Sales_Dashboards
 
 
-![Dashboard](SaaS_Product_Excel_Dashboard.png)
+![Dashboard](SaaS_Product_Excel_Dashboard.PNG)
 
 ## Overview
 This repository contains a collection of Excel Pivot Dashboards designed to provide powerful insights from raw datasets. Each dashboard leverages Excel's PivotTable and PivotChart features to create dynamic, interactive, and visually appealing data summaries. These dashboards are ideal for users looking to streamline their data analysis, identify trends, and communicate key insights effectively.
